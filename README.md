@@ -1,1 +1,0 @@
-# Implementa-o-de-um-sistema-de-neur-nios-simples
